@@ -1,0 +1,29 @@
+main, header, div, footer{
+
+    text-align: center;
+    margin: 3px;
+    border: solid 2px black;
+
+
+}
+
+article{
+
+    
+    margin: 3px;
+    border: solid 2px black;
+
+}
+
+div{
+
+    display: flex;
+    flex-direction: column ;
+
+}
+
+body{
+    
+    flex-direction: column;
+    
+}
